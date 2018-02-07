@@ -1,0 +1,135 @@
+nav{
+	border-radius: 0%;
+}
+.linea{
+	background-color: #3f7812;
+}
+.topnav{
+	margin-top: 10%;
+}
+.navbar-default .nav li a{
+  color:  #1e3817  !important;
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+	color:  #3f7812 !important;
+}
+.color{
+	color: #5b7764;
+
+}
+.links > a {
+                color: #5b7764;
+                padding: 0 25px;
+                font-size: 12px;
+                font-weight: 600;
+                letter-spacing: .1rem;
+                text-decoration: none;
+                text-transform: uppercase;
+            }
+a:hover { color:  #3f7812 ; }
+html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: Helvetica, sans-serif;
+                font-weight: 100;
+                height: 100;
+                margin: 0;
+                padding:0;
+            }
+.full-height {
+                height: 100vh;
+            } 	
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .top-right {
+                position: absolute;
+                right: 10px;
+                top: 18px;
+            }
+
+            .content {
+                text-align: center;
+            }
+
+            .title {
+                font-size: 84px;
+            }
+
+            
+
+            .m-b-md {
+                margin-bottom: 30px;
+            }
+
+
+div.navbar-header{
+    margin-left: 1%;
+    margin-top:1%;
+    margin-right: 5% !important;
+
+}
+
+a.navbar-brand{
+	margin-top: -15px;
+	padding-left: 30px;
+
+}
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:20px !important; padding-bottom:0 !important;
+    height: 60px; /* aqui escoges el alto que necesites */
+}
+.navbar {
+    min-height:60px !important; /* aqui escoges el alto que necesites */
+}
+.negrita{
+	font-weight: bold;
+	font-size: 16px;
+}
+.subrayado{
+	border-bottom-style: solid;
+}
+.principal{
+    margin-top: 6%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.imagen{
+    margin:auto;
+    width: 100%;
+    height: 310px;
+    margin-top: 3%;
+}
+.stretch {
+    width:70%;
+    height: 100%
+    margin:auto;
+}
+.secundario{
+    margin-bottom: 7%;
+}
+.titulo{
+    font-weight: bold;
+}
+.carro{
+    margin-left:5%;
+    margin-right: 5%;
+}
+.general{
+    margin-top: 8%;
+}
+tr:hover{
+    background-color:#DFDFDF;
+}
+.btnDelete{
+    background-color: transparent;
+    border: none;
+}
